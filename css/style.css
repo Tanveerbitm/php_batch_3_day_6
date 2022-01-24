@@ -1,0 +1,19 @@
+.my-caption{
+    background-color: rgba(0,0,0,0.4);
+    bottom: 100px;
+    border-radius: 10px;
+}
+.h-250{
+    height:250px;
+}
+.h-50{
+    height:50px;
+}
+.h-450{
+    height:450px;
+}
+.p-sticky{
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
